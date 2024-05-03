@@ -12,3 +12,4 @@ version-resolver:
     labels:
       - 'minor'
   default: minor
+version-template: '$MAJOR.$MINOR'
